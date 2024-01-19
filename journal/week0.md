@@ -8,6 +8,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 Update our .gitpod.yml to include the following task.
 
+
+
 tasks:
   - name: aws-cli
     env:
